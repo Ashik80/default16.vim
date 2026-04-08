@@ -1,4 +1,7 @@
 hi Normal ctermbg=NONE guibg=NONE ctermfg=NONE guifg=NONE
+if has('nvim')
+    hi @variable ctermbg=NONE guibg=NONE ctermfg=NONE guifg=NONE
+endif
 hi Statement cterm=NONE gui=NONE ctermfg=3 guifg=#F0C674
 hi Visual ctermfg=0 guifg=#1D1F21 ctermbg=5 guibg=#B294BB
 hi Comment ctermfg=4 guifg=#81A2BE
