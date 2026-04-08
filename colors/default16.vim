@@ -21,6 +21,8 @@ hi StatusLineTermNC ctermbg=173 ctermfg=0 guibg=#D7875F guifg=#1D1F21
 hi SpecialKey ctermfg=8 guifg=#666666
 hi MatchParen cterm=bold ctermbg=NONE ctermfg=11 guibg=NONE guifg=#E7C547
 hi Search ctermfg=0 guifg=#1D1F21 ctermbg=11 guibg=#E7C547
+hi QuickFixLine ctermfg=0 guifg=#1D1F21 ctermbg=11 guibg=#E7C547
+hi Question ctermfg=2 guifg=#B5BD68
 hi NonText ctermfg=8 guifg=#666666
 hi Conceal ctermbg=NONE ctermfg=8 guibg=NONE guifg=#666666
 hi PreProc ctermfg=5 guifg=#B294BB
