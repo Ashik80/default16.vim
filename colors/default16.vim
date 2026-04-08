@@ -11,8 +11,8 @@ hi Function ctermfg=6 guifg=#8ABEB7
 hi Type ctermfg=2 guifg=#B5BD68
 hi LineNr ctermfg=8 guifg=#666666
 hi VertSplit cterm=NONE ctermfg=8 ctermbg=NONE guibg=NONE guifg=#666666
-hi Pmenu ctermbg=0 ctermfg=7 guibg=#1D1F21 guifg=#C5C8C6
-hi PmenuSel ctermbg=3 ctermfg=0 guibg=#F0C674 guifg=#1D1F21
+hi Pmenu cterm=NONE term=NONE gui=NONE ctermbg=0 ctermfg=7 guibg=#1D1F21 guifg=#C5C8C6
+hi PmenuSel cterm=NONE term=NONE gui=NONE ctermbg=3 ctermfg=0 guibg=#F0C674 guifg=#1D1F21
 hi WildMenu ctermbg=3 ctermfg=0 guibg=#F0C674 guifg=#1D1F21
 hi StatusLine cterm=NONE ctermbg=3 ctermfg=0 guibg=#F0C674 guifg=#1D1F21
 hi StatusLineNC cterm=NONE ctermbg=173 ctermfg=0 guibg=#D7875F guifg=#1D1F21
