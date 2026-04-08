@@ -31,7 +31,7 @@ hi Constant ctermfg=1 guifg=#CC6666
 hi String ctermfg=1 guifg=#CC6666
 hi Underlined term=underline cterm=underline gui=underline ctermfg=5 guifg=#B294BB
 hi SignColumn ctermbg=NONE guibg=NONE
-hi DiffAdd ctermbg=NONE guibg=NONE ctermfg=2 guifg=#A3BE8C
+hi DiffAdd ctermbg=NONE guibg=NONE ctermfg=2 guifg=#B5BD68
 hi DiffChange ctermbg=NONE guibg=NONE ctermfg=3 guifg=#F0C674
 hi DiffDelete ctermbg=NONE guibg=NONE ctermfg=1 guifg=#CC6666
 hi DiffText ctermbg=9 guibg=#D54E53
