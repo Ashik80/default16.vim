@@ -5,7 +5,8 @@ endif
 hi Statement cterm=NONE gui=NONE ctermfg=3 guifg=#F0C674
 hi Operator cterm=NONE gui=NONE ctermfg=3 guifg=#F0C674
 hi Visual ctermfg=0 guifg=#1D1F21 ctermbg=5 guibg=#B294BB
-hi Comment ctermfg=4 guifg=#81A2BE
+" hi Comment ctermfg=4 guifg=#81A2BE
+hi Comment ctermfg=8 guifg=#666666
 hi Identifier ctermfg=6 guifg=#8ABEB7
 hi Function ctermfg=6 guifg=#8ABEB7
 hi Type ctermfg=2 guifg=#B5BD68
